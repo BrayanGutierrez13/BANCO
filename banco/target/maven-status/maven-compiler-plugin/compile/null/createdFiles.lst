@@ -1,0 +1,7 @@
+com\banco\entity\Movimiento.class
+com\banco\resources\ClienteResource.class
+com\banco\entity\Cliente.class
+com\banco\service\ClienteService.class
+com\banco\entity\Cuenta.class
+com\banco\ExampleResource.class
+com\banco\repository\ClienteRepository.class
